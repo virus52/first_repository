@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Asia</title>
+</head>
+<body>
+    <div class="wrapper">
+    <header class="header">
+        <a href="/" class="logo">
+            <img src="" alt="" class="logo__pic">
+            </a>
+            <nav class="menu">
+                <ul class="menu__list">
+                    <li class="menu__item">
+                        <img src="" class="menu__icon">
+                        <div class="menu__title">Главная</div>
+                    </li>
+                </ul>
+                <ul class="menu__list">
+                    <li class="menu__item">
+                        <img src="" class="menu__icon">
+                        <div class="menu__title">Услуги</div>
+                    </li>
+                </ul>
+                <ul class="menu__list">
+                    <li class="menu__item">
+                        <img src="" class="menu__icon">
+                        <div class="menu__title">Отзывы</div>
+                    </li>
+                </ul>
+            </nav>
+            <address class="contacts">
+                <a href="tel:+78007003030" class="contacts__phone">8 800 700 30 30</a>
+            <div class="contacts__workhours">пн-вс: 09:00-20:00 Обед 14:00-14:30</div></address>
+          </header>
+
+<div class="page-content">
+    <main class="main-content">
+<div class="main-content__text">
+    <h6>Авторские туры по Азии</h6>
+    <h1>Открой для себя Азию</h1>
+    <a href="#" class="main-content__text-button">Подробнее</a>
+</div>
+
+
+    </main>
+</div>
+<main class="main-content"></main>
+    </div>
+
+
+    
+</body>
+</html>
